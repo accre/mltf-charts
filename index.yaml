@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mltf:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-22T20:53:55.605016839Z"
+    description: A Helm chart for Kubernetes
+    digest: 664923b55ce26682a8ecd452da4f01f47847e7ac1f862f8c5edbf6e2ae6e0777
+    name: mltf
+    type: application
+    urls:
+    - https://github.com/accre/mltf-charts/releases/download/mltf-0.1.0/mltf-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-22T20:53:55.605030725Z"
